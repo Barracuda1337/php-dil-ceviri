@@ -22,7 +22,7 @@ Bu araç, PHP dil dosyalarını otomatik olarak çevirmek için geliştirilmiş 
 1. Projeyi klonlayın:
 ```bash
 git clone https://github.com/Barracuda1337/php-dil-ceviri.git
-cd php-translator
+cd php-dil-ceviri
 ```
 
 2. Gerekli kütüphaneleri yükleyin:
